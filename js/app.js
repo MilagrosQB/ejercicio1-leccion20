@@ -1,5 +1,4 @@
 function suma(num1) {
-var num2 = 0;
 	return function(num2) {
 		return num1 + num2;
 	}
